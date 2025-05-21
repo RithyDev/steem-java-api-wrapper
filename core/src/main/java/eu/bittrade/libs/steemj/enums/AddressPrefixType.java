@@ -6,6 +6,7 @@ package eu.bittrade.libs.steemj.enums;
  * @author <a href="http://steemit.com/@dez1337">dez1337</a>
  */
 public enum AddressPrefixType {
+    
     /** The Steem address prefix */
     STM,
     /** The Steem test net address prefix */
